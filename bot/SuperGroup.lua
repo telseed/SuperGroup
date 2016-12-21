@@ -580,6 +580,8 @@ Returns users name and id by username
 
 !log
 Returns group logs
+		
+	#blaster
 *Search for kick reasons using [#RTL|#spam|#lockmember]
 
 **You can use "#", "!", or "/" to begin all commands
